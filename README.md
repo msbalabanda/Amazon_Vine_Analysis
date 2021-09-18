@@ -8,8 +8,10 @@ This project is based on amazon reviews for video games.use We use PySpark to pe
 There were a total of of 4,291 vine reviews in our dataset, and 40,471 non-vine reviews in the complete dataset.
 
 2) How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-
+There are 15,711 5-star reviews and 15,663 non-vine 5-star reviews
 
 3) What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+38.2% of vine reviews were five stars and 38.9% of non-vine reviews were 5 stars
 
 ## Summary
+38.2% of the reviews in the Vine program were 5 stars reviews whereas the percentage in the non-Vine reviews is only 38.9%. Therefore there does not appear to be any sort of positivity bias because the percentages shown above are very similar.
